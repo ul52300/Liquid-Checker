@@ -10,3 +10,13 @@ This tool is used to check the liquid check data on the plots generated in the S
   1) Relative permittivity.
   2) Conducttivity.
   3) Frequency the you entered.
+
+Required libraries:
+-	Python 3.10.4
+-	Pandas
+  o	Use the PyPI method.
+-	NumPy
+  o	Use the PIP method.
+-	OpenPyxl
+-	Python-docx
+-	PySimpleGUI
