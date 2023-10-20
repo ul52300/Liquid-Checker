@@ -14,9 +14,9 @@ This tool is used to check the liquid check data on the plots generated in the S
 Required libraries:
 -	Python 3.10.4
 -	Pandas
-  o	Use the PyPI method.
+  - Use the PyPI method.
 -	NumPy
-  o	Use the PIP method.
+  - Use the PIP method.
 -	OpenPyxl
 -	Python-docx
 -	PySimpleGUI
