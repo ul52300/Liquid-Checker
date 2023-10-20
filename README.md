@@ -6,3 +6,4 @@ This tool is used to check the liquid check data on the plots generated in the S
 - Outputs: 
   1) Relative permittivity.
   2) Conducttivity.
+  3) Frequency the you entered.
