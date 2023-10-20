@@ -1,2 +1,7 @@
 # Work-Tools
-This folder contains any tools created for the sole purpose of making the SAR Teams lives easier.
+This tool is used to check the liquid check data on the plots generated in the SAR test.
+
+Input: Target frequency, aka the frequency that you want to check for.
+Outputs: 
+  1) Relative permittivity.
+  2) Conducttivity.
