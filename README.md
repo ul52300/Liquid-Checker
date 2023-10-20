@@ -1,4 +1,6 @@
-# Work-Tools
+# Liquid Checker
+# Version: 1.0
+
 This tool is used to check the liquid check data on the plots generated in the SAR test.
 
 - Input:
